@@ -1,0 +1,20 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+
+* {
+	background: black;
+}
+
+h1 {
+    color: white;
+}
+p {
+
+    color: white;
+}
+
+input, select, textarea { 
+    color: yellow; 
+}
