@@ -1,0 +1,21 @@
+{
+  "name": "toypig-homepage",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mailchimp-api": "*"
+  },
+  "description": "Homepage for Toy Pig Co.",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [
+    "toypig",
+    "awesomesauce"
+  ],
+  "author": "Julie Vera & Robby Grodin",
+  "license": "ISC"
+}
