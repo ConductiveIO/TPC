@@ -82,7 +82,7 @@
     
     <div class="row">
         <div class="twelve columns text-center">
-            <p>info@toypig.co</p>
+            <h6>info@toypig.co</h6>
         </div>
     </div>
     
