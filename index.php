@@ -12,6 +12,18 @@
     <!-- TITLE -->    
 	<title>TOYPIG</title>
         
+    <!-- Google Analytics -->
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54234016-1', 'auto');
+  ga('send', 'pageview');
+
+    </script>
+        
     <!-- META -->    
 	<!-- <meta name="" content="" /> --> <!-- TODO -->
 	<meta name="keywords" content="toypig" />
@@ -68,7 +80,7 @@
         <div class="twelve columns centered">
             <div class="row">
                 <div class="six columns centered">
-                    <img src="img/toypig_logo_yellow_transp.svg" />
+                    <img src="img/toypig_logo_V4_eraseissue.svg" />
                 </div>
             </div>
         </div>
