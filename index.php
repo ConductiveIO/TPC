@@ -80,7 +80,7 @@
         <div class="twelve columns centered">
             <div class="row">
                 <div class="six columns centered">
-                    <img src="img/toypig_logo_V4_eraseissue.svg" />
+                    <img src="img/toypig_logo_yellow_transp.svg" />
                 </div>
             </div>
         </div>
