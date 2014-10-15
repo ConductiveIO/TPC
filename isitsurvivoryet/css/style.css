@@ -8,3 +8,8 @@ h1 {
     text-align: center;
     color: white;
 }
+.counter {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
