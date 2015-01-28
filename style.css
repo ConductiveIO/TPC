@@ -1,0 +1,116 @@
+row {
+    overflow: hidden;
+    height: 200px;
+}
+
+h1, h2 {
+    font-family: 'Anton', sans-serif;
+}
+
+
+h3, h4 {
+    font-family: 'Cutive Mono', serif; 
+}
+
+h5, h6, p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.col-md-4.text-center {
+    height: 200px;
+}
+
+.carousel-subhead a:link {
+    color: #FFDE55;
+    text-decoration: underline;
+}
+
+a:visited, a:hover, a:active {
+    color: #FFDE55;
+}
+
+.capabilities a {
+    color: #5A5A5A;
+    text-decoration: underline;
+}
+
+
+
+footer a {
+    text-decoration: underline;
+    color: #5A5A5A;
+}
+
+footer a:visited {
+    color: #5A5A5A;
+}
+
+.img-circle {
+    background-color: whitesmoke;
+}
+
+.img-circle img {
+    width: 130px;
+    height: 130px;
+}
+
+#email {
+    text-decoration: underline;
+}
+
+#email a {
+    color: #5A5A5A;
+}
+
+#email a:visited {
+    color: #5A5A5A;
+}
+
+
+@media only screen and (max-width: 640px) {
+    .navbar.logo {
+        height: 50px;
+    }
+}
+
+
+img.client-image {
+    margin-top: 10px;
+    
+}
+
+.row.buffer {
+    margin-right: 120px;
+    valign: center;
+}
+
+.container-blog {
+    margin-top: 150px;
+}
+
+#blog-right-nav {
+    margin-top: 70px;
+}
+
+.carousel-headline {
+    font-size: 60px;
+    margin-top: -250px;
+}
+
+.carousel-subhead {
+    margin-bottom: -400px;
+}
+
+span {
+    font-family: 'Cutive Mono', serif;
+    font-size: 50px
+}
+
+.row.capabilities {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#twitter {
+    margin-top: 50px;
+}

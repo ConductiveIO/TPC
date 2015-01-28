@@ -1,0 +1,6 @@
+{
+	"require": {
+		"ktamas77/firebase-php": "*",
+    "twbs/bootstrap": "3.0.*"
+	}
+}
